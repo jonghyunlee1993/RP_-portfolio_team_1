@@ -17,13 +17,13 @@
 
 1. 시가 총액 상위 30개 종목 기반 RP 구성
    - 누적 수익률 그래프
-   - ![Figure_01](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/figure_01.png)
+   - ![Figure_01](figures/figure_01.png)
    - 평가 지표
-   - ![Table_01](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/table_01.png)
+   - ![Table_01](figures/table_01.png)
 
 2. 시가 총액 상위 10개 종목 기반 RP 구성
    - 누적 수익률 그래프
-   - ![Figure_02](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/figure_02.png)
+   - ![Figure_02](figures/figure_02.png)
    - 평가 지표
-   - ![Table_02](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/table_02.png)
+   - ![Table_02](figures/table_02.png)
 
