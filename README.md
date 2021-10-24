@@ -17,13 +17,13 @@
 
 1. 시가 총액 상위 30개 종목 기반 RP 구성
    - 누적 수익률 그래프
-   - ![image-20211024130120022](/Users/jonghyun/Library/Application Support/typora-user-images/image-20211024130120022.png)
+   - ![Figure_01](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/figure_01.png)
    - 평가 지표
-   - ![image-20211024130134332](/Users/jonghyun/Library/Application Support/typora-user-images/image-20211024130134332.png)
+   - ![Table_01](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/table_01.png)
 
 2. 시가 총액 상위 10개 종목 기반 RP 구성
    - 누적 수익률 그래프
-   - ![image-20211024130149052](/Users/jonghyun/Library/Application Support/typora-user-images/image-20211024130149052.png)
+   - ![Figure_02](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/figure_02.png)
    - 평가 지표
-   - ![image-20211024130159295](/Users/jonghyun/Library/Application Support/typora-user-images/image-20211024130159295.png)
+   - ![Table_02](/Users/jonghyun/Workspace/RP_portfolio_team_01/figures/table_02.png)
 
